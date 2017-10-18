@@ -1,0 +1,7 @@
+C:\Users\郭浩卓\source\repos\计算器\计算器\bin\Debug\计算器.exe.config
+C:\Users\郭浩卓\source\repos\计算器\计算器\bin\Debug\计算器.exe
+C:\Users\郭浩卓\source\repos\计算器\计算器\bin\Debug\计算器.pdb
+C:\Users\郭浩卓\source\repos\计算器\计算器\obj\Debug\计算器.csprojResolveAssemblyReference.cache
+C:\Users\郭浩卓\source\repos\计算器\计算器\obj\Debug\计算器.csproj.CoreCompileInputs.cache
+C:\Users\郭浩卓\source\repos\计算器\计算器\obj\Debug\计算器.exe
+C:\Users\郭浩卓\source\repos\计算器\计算器\obj\Debug\计算器.pdb
